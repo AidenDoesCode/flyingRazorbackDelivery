@@ -1,0 +1,1000 @@
+36.03 -94.1624 20 Pepper Tree Ln
+36.0302 -94.1261 18 N Waneetah Ave
+36.0303 -94.0906 144 Miranda Ave
+36.0304 -94.1597 96 W Constitution Dr
+36.0304 -94.1272 23 E Ridgeway Dr
+36.0307 -94.1793 144 W Caldwell St
+36.0308 -94.1975 56 Crown Flower Dr
+36.0308 -94.1088 49 N Raven Ln
+36.0311 -94.1217 36 E Kittery Ln
+36.0314 -94.1445 33 Granby St
+36.0315 -94.1865 90 N Gray Ave
+36.0316 -94.1508 18 N Stardust Ln
+36.0317 -94.0917 82 N Cedarwood Ave
+36.032 -94.1641 31 W Wilson St
+36.0321 -94.1889 58 W Tupelo Way
+36.0321 -94.1792 71 Perry Pit Rd
+36.0322 -94.1646 212 Pointer Ln
+36.0323 -94.1487 185 Richmond Dr
+36.0325 -94.1909 2 E Wyman Valley Dr
+36.0326 -94.0963 81 W Cleveland St
+36.0327 -94.1019 55 W Wren Cir
+36.0328 -94.1132 6 W Olive Tree Dr
+36.033 -94.1685 51 Fiddlesticks Pl
+36.0331 -94.1644 40 Edgewater Dr
+36.0332 -94.1186 13 Red Brae Pl
+36.0334 -94.197 43 Blue Springs Rd
+36.0335 -94.1465 35 Shetland Dr
+36.0338 -94.1667 35 E Chelsea Ln
+36.034 -94.141 84 Colt Square Dr
+36.0342 -94.1349 47 E Borick Dr
+36.0343 -94.1355 62 Walnut Dr
+36.0345 -94.1141 22 Box Ave
+36.0347 -94.1192 35 W Powerline Pl
+36.0348 -94.1641 67 W Wilson St
+36.0349 -94.1709 58 N Nolan Ave
+36.0351 -94.1266 57 Old Town Ln
+36.0352 -94.1985 41 Choctaw Ct
+36.0353 -94.1567 112 N Water Oak Dr
+36.0355 -94.1815 25 W Velda Ct
+36.0355 -94.1247 110 N Robin Rd
+36.0358 -94.1723 54 S Smokehouse Trail
+36.0359 -94.1517 144 N Brophy Ave
+36.036 -94.1874 114 N Promenade Lnk
+36.036 -94.1545 115 E Whitefish Bay Pl
+36.0361 -94.1933 60 E Hilldale Dr
+36.0362 -94.1686 100 W Lakeridge Dr
+36.0365 -94.1104 48 W Reliance St
+36.0366 -94.1178 34 Sumac Dr
+36.0367 -94.1141 91 N Northwood Ave
+36.037 -94.1952 62 W Trout Dr
+36.0372 -94.1854 63 S Shiloh Dr
+36.0373 -94.1957 66 Danita St
+36.0374 -94.138 110 Peachtree Dr
+36.0376 -94.1116 111 Crystal Dr
+36.0378 -94.1132 25 Garden Grove Ct
+36.0381 -94.1402 41 N Centerwood Dr
+36.0382 -94.1773 83 E Hearthstone Dr
+36.0384 -94.1699 34 S Graham Ave
+36.0386 -94.1897 40 Borick Dr
+36.0386 -94.1011 39 W Anne St
+36.0387 -94.1909 27 N Stone Bridge Rd
+36.0387 -94.1068 104 Quinton Ct
+36.0389 -94.1012 83 W Flagstick Dr
+36.0391 -94.0953 111 Orlando Dr
+36.0392 -94.1623 19 W Circle Dr
+36.0394 -94.1384 42 Cornerstone Pl
+36.0396 -94.1788 38 W Fountain St
+36.0398 -94.1295 19 Evangeline Ln
+36.0399 -94.135 24 N Trafalger Dr
+36.04 -94.1472 43 E Center St
+36.0401 -94.101 59 N Smith Ave
+36.0402 -94.1051 100 W Ash St
+36.0403 -94.1846 114 W Farmington St
+36.0403 -94.127 11 N Cato Springs Rd
+36.0404 -94.1107 23 W Rainbow Dr
+36.0405 -94.1527 66 E Century Dr
+36.0406 -94.174 100 S Warford Rd
+36.0408 -94.1366 38 Shuler Dr
+36.041 -94.1142 39 Point W St
+36.0411 -94.1362 48 Mcclinton St
+36.0413 -94.1794 70 N Harrier Dr
+36.0414 -94.112 47 W Ozark Trail
+36.0416 -94.1693 15 N Razorback Rd
+36.0417 -94.1678 20 W Lafayette St
+36.0418 -94.163 65 N Hillian Ave
+36.0419 -94.1336 69 Nonnamaker Dr
+36.042 -94.1569 40 Sycamore Trail
+36.0421 -94.1686 147 W Lakeridge Dr
+36.0422 -94.1882 43 N Usa Dr
+36.0423 -94.1139 48 W Ridgeway Dr
+36.0426 -94.1723 120 S Smokehouse Trail
+36.0427 -94.109 92 N Powderhorn Dr
+36.0429 -94.1329 130 N Wilson Ave
+36.0431 -94.1793 97 W Plymouth Rock Pl
+36.0432 -94.1535 58 N Hungate Rd
+36.0432 -94.1249 71 Price Ave
+36.0433 -94.1731 64 E Breakstone Dr
+36.0433 -94.135 68 N Trafalger Dr
+36.0435 -94.1628 90 W Wiles Rd
+36.0435 -94.1158 138 N Pacific Heights
+36.0436 -94.1361 106 Parnell Dr
+36.0438 -94.1731 71 E Breakstone Dr
+36.0438 -94.1405 25 Vandergriff Dr
+36.0438 -94.1095 76 Althea Dr
+36.044 -94.1391 112 Red Tip Dr
+36.0441 -94.1895 25 W Carrol St
+36.0442 -94.1402 43 W Shadow Dr
+36.0443 -94.1046 131 E Ash St
+36.0445 -94.1242 90 Travis St
+36.0446 -94.1442 43 N Barcelona Ave
+36.0447 -94.1885 106 N Golf Club Dr
+36.0448 -94.1695 51 West End Ave
+36.0448 -94.1112 49 Gabbard Dr
+36.0449 -94.1285 154 N Tavistock Ct
+36.045 -94.1602 63 E Eastpoint Dr
+36.045 -94.1189 151 Draper Rd
+36.0452 -94.1201 145 W Rutledge Ln
+36.0454 -94.1591 64 S Arroyo Ave
+36.0455 -94.1077 48 Madrid St
+36.0456 -94.1005 38 N Stagecoach Dr
+36.0457 -94.1222 9 E Fairway Ln
+36.0459 -94.1108 102 S Brink Dr
+36.046 -94.1074 142 S Hoddle Pl
+36.0461 -94.1419 5 E West View Dr
+36.0463 -94.1611 35 N Broyles Rd
+36.0464 -94.1437 54 Idlewood Way
+36.0464 -94.117 104 Weatherwood Ct
+36.0465 -94.1703 39 N Park Ave
+36.0465 -94.1244 42 American Dr
+36.0466 -94.1786 59 Lena Ln
+36.0467 -94.1026 79 Colonnade Dr
+36.0468 -94.1186 56 Weston Rd
+36.0469 -94.1222 13 E Fairway Ln
+36.0471 -94.1653 98 N Durango Pl
+36.0472 -94.1116 28 Plum Cir
+36.0473 -94.1751 97 N Mcarthur Ct
+36.0474 -94.1717 132 N Hornsby Dr
+36.0475 -94.1641 61 Greenbriar Dr
+36.0476 -94.1514 30 E Mountain St
+36.0477 -94.1695 91 West End Ave
+36.0477 -94.129 89 Lonesome Dove Dr
+36.0477 -94.1207 156 Old Weddington Rd
+36.0479 -94.1632 31 E Talon Trail
+36.048 -94.1501 16 S Liberty Dr
+36.0481 -94.1196 81 Lisa Ln
+36.0482 -94.1325 8 E Sweetbriar Dr
+36.0483 -94.139 27 W Hickory St
+36.0485 -94.1801 50 White Rock Ln
+36.0486 -94.1152 29 Peach St
+36.0487 -94.1005 65 N Stagecoach Dr
+36.0488 -94.1281 68 W Thames Dr
+36.0489 -94.1731 134 W Carter St
+36.049 -94.1779 160 Vanike Dr
+36.049 -94.1168 23 Selle Dr
+36.0492 -94.152 73 Summerhouse Ln
+36.0492 -94.1035 89 Bedford Loop
+36.0493 -94.1428 87 Gun Club Rd
+36.0494 -94.1202 45 E Birdie Dr
+36.0495 -94.133 95 S Delaware St
+36.0496 -94.184 110 E Carson Dr
+36.0496 -94.1098 159 N Hatterly Ln
+36.0497 -94.1392 91 N Gulley Rd
+36.0498 -94.1378 53 Burr Oak Dr
+36.0499 -94.139 41 W Hickory St
+36.0501 -94.1798 22 S Alta St
+36.0502 -94.1672 76 N Wood Creek Ln
+36.0502 -94.1421 85 Hobby Rd
+36.0503 -94.1007 49 Indian Trail
+36.0505 -94.1913 14 N Woodland Ave
+36.0506 -94.1682 26 S Phillip Dr
+36.0506 -94.1401 41 Krupa Dr
+36.0507 -94.1621 71 W Titus Dr
+36.0507 -94.1084 63 N Berkleigh Dr
+36.0509 -94.1402 36 S Finger Rd
+36.0509 -94.1294 150 S Finger Rd
+36.051 -94.1519 92 S California Blvd
+36.0512 -94.156 81 S Arbuckle Ln
+36.0513 -94.1069 81 Combs Ave
+36.0514 -94.1569 145 N Bronze Tree Ave
+36.0514 -94.1017 201 Wolf Creek Dr
+36.0516 -94.1655 100 N Vista Pl
+36.0517 -94.1438 100 W Beck Dr
+36.0517 -94.101 33 Walker Rd
+36.0519 -94.1242 25 Worthington Way
+36.052 -94.1649 116 E Bridgewater Ln
+36.0522 -94.1708 54 N Raintree Dr
+36.0523 -94.1402 127 W Shadow Dr
+36.0524 -94.1725 28 W Sauter Ln
+36.0524 -94.1369 62 W Elm St
+36.0525 -94.1777 91 Mayfield Rd
+36.0526 -94.1774 90 Brices Cross Dr
+36.0527 -94.1572 99 King Rd
+36.0528 -94.1382 33 W Marlowe Ln
+36.0529 -94.1112 111 Gabbard Dr
+36.0531 -94.1741 50 N Hayfield Cir
+36.0532 -94.1774 95 Brices Cross Dr
+36.0533 -94.1777 105 Mayfield Rd
+36.0535 -94.1819 29 W Mclaren Dr
+36.0535 -94.12 130 N Hunter Dr
+36.0536 -94.101 53 Walker Rd
+36.0538 -94.1736 48 Kinzer St
+36.0539 -94.1741 54 N Hayfield Cir
+36.054 -94.1903 45 N Juneway Terrace
+36.054 -94.162 163 Overcrest St
+36.054 -94.1173 54 N Blue Star Dr
+36.0541 -94.1829 146 Parkview Dr
+36.0542 -94.1251 23 Baldwin Ave
+36.0544 -94.1222 66 E Fairway Ln
+36.0546 -94.1767 55 Willis Ave
+36.0547 -94.1891 84 S Sang Ave
+36.0547 -94.1252 138 W Patricia Ln
+36.0548 -94.1245 100 Mulberry Cir
+36.0549 -94.1403 133 W Mayes Dr
+36.055 -94.1114 29 S School Ave
+36.0552 -94.1877 67 W Nightingale Cir
+36.0552 -94.1525 150 E Wilcox Rd
+36.0554 -94.1985 59 N Cannondale Dr
+36.0555 -94.1536 64 N Hidden Acres Rd
+36.0556 -94.1695 54 N Woodlark Ln
+36.0556 -94.1516 137 Hoot Owl Ln
+36.0557 -94.1342 52 Birdie Dr
+36.0557 -94.1257 150 Birdie Dr
+36.0558 -94.1676 47 S Sand Trap Ln
+36.0558 -94.1373 41 N Knox Dr
+36.0559 -94.1627 47 Pine Ave
+36.056 -94.1031 82 Becton Ln
+36.0561 -94.1564 63 Highland Church Rd
+36.0562 -94.1934 124 Skillern Rd
+36.0563 -94.1434 122 N Parkside Dr
+36.0564 -94.1336 44 N Maxwell Dr
+36.0564 -94.1242 91 Worthington Way
+36.0564 -94.1005 160 N Stagecoach Dr
+36.0565 -94.119 62 E Tulip Ct
+36.0567 -94.1343 34 W Cartier St
+36.0569 -94.1616 17 Forest Ave
+36.0569 -94.114 71 W Mallard Ln
+36.057 -94.1429 116 W Anderson Pl
+36.057 -94.1038 120 N Jonquil Ct
+36.0572 -94.1555 9 S Harmon Ave
+36.0572 -94.0969 118 Limestone Dr
+36.0573 -94.1144 183 E Coy Kayler Dr
+36.0574 -94.1066 190 N Best Friend Ln
+36.0575 -94.1428 165 Gun Club Rd
+36.0576 -94.1185 75 Larkspur Ln
+36.0577 -94.1648 25 W Cedar Ridge Ln
+36.0578 -94.1977 33 Vista Dr
+36.0579 -94.1032 18 E Canvas Rd
+36.058 -94.1627 68 Pine Ave
+36.0581 -94.1237 23 N Porter Rd
+36.0582 -94.1453 24 N Hazeltine Dr
+36.0584 -94.1648 28 W Cedar Ridge Ln
+36.0584 -94.1206 170 E Pharris Dr
+36.0586 -94.196 100 Nantucket Dr
+36.0586 -94.1145 57 Norman Murphy Rd
+36.0587 -94.1303 64 E Steeple Chase Dr
+36.0587 -94.1102 18 W Tanyard Dr
+36.0589 -94.1428 180 Gun Club Rd
+36.059 -94.1849 104 Rom Orchard Rd
+36.0591 -94.1521 29 N Mission Blvd
+36.0591 -94.136 112 N College Ave
+36.0591 -94.095 117 Wilson Ln
+36.0592 -94.1041 78 W Martha Dr
+36.0593 -94.1562 95 Harmon Rd
+36.0594 -94.1306 17 E Applebury Dr
+36.0596 -94.1777 154 Mayfield Rd
+36.0597 -94.1571 39 W Breeze Cove
+36.0597 -94.1207 51 N Mckee Cir
+36.0599 -94.1977 61 Vista Dr
+36.0599 -94.1161 99 N Aqua Crossing
+36.06 -94.1792 17 W Rochier St
+36.0601 -94.1191 58 Eastwood Dr
+36.0602 -94.1427 58 El Paso Dr
+36.0602 -94.1123 60 N Briargate Dr
+36.0604 -94.1741 103 N Hayfield Cir
+36.0606 -94.1905 36 W El Paso Dr
+36.0606 -94.1051 33 E Bertha St
+36.0608 -94.1977 64 Vista Dr
+36.0609 -94.1934 52 S Garland Ave
+36.061 -94.1927 20 N Locust Ave
+36.0611 -94.1778 76 N Cold Harbor Ave
+36.0611 -94.1025 44 N Donald Rd
+36.0613 -94.1819 127 W Mclaren Dr
+36.0614 -94.1809 114 S Tamarind Cove
+36.0614 -94.121 191 Marvin Ave
+36.0615 -94.1422 13 N Kenilworth Ave
+36.0616 -94.1482 43 W Heck St
+36.0618 -94.1741 115 N Hayfield Cir
+36.0619 -94.1691 28 Crowne Dr
+36.062 -94.1453 49 N Hazeltine Dr
+36.0622 -94.1067 26 Yates Dr
+36.0624 -94.1147 58 Ernie Jacks Blvd
+36.0625 -94.1067 40 Walnut Ridge
+36.0628 -94.175 55 Samantha Ave
+36.0629 -94.1637 83 N Edgehill Dr
+36.063 -94.1245 188 Mulberry Cir
+36.0631 -94.1893 104 E Rolling Hills Dr
+36.0631 -94.1179 66 Jeremiah Pl
+36.0633 -94.1344 25 Meadow Creek Cir
+36.0633 -94.1163 22 Mouton Cir
+36.0633 -94.1063 141 Mouton Cir
+36.0635 -94.15 44 N Sassafras Hill Rd
+36.0637 -94.1042 48 N Colorado Dr
+36.0639 -94.1593 75 N Fiesta Dr
+36.0639 -94.1101 114 W Ernest Lancaster Dr
+36.0641 -94.1264 76 N Glenbrook Pl
+36.0643 -94.1486 51 Butternut Dr
+36.0645 -94.1653 66 N Oakland Zion Pl
+36.0645 -94.0948 87 W Sandra St
+36.0646 -94.1591 91 England Lnk
+36.0647 -94.1717 9 W Gardenia Dr
+36.0648 -94.1439 137 N Belfast Pl
+36.065 -94.1793 70 S Doral Dr
+36.0651 -94.1439 144 N Belfast Pl
+36.0652 -94.1985 152 N Cannondale Dr
+36.0653 -94.1165 95 W Indian Trail
+36.0655 -94.1793 95 W Bowling Green Pl
+36.0655 -94.1265 154 N Martin Ave
+36.0656 -94.159 125 Hughes St
+36.0657 -94.118 98 W Houston St
+36.0659 -94.1891 111 W Landy Pl
+36.066 -94.1439 156 N Belfast Pl
+36.0662 -94.197 55 N Sabine Pass Rd
+36.0662 -94.1207 103 N Mckee Cir
+36.0664 -94.1676 137 S Sand Trap Ln
+36.0666 -94.1414 48 E Custer Ln
+36.0668 -94.1979 23 Fern Creek Pl
+36.0668 -94.1504 149 N Johnell Dr
+36.0669 -94.1265 44 N Meadow View Dr
+36.0671 -94.1972 91 N Surrey Crossing
+36.0672 -94.1139 75 W Ridgebury Pl
+36.0674 -94.1673 59 Thames Dr
+36.0675 -94.1264 108 N Glenbrook Pl
+36.0676 -94.1516 171 N Charlee Ave
+36.0677 -94.1742 55 Crestview Rd
+36.0678 -94.1555 98 Old Wire Rd
+36.0678 -94.1183 38 S Duncan Ave
+36.0678 -94.1034 72 N Butternut Dr
+36.0679 -94.1452 130 N Stephens Ave
+36.068 -94.1482 93 W Heck St
+36.0682 -94.1711 37 W Mayflower Ct
+36.0682 -94.1544 161 Van Hoose Dr
+36.0683 -94.1946 103 N Main Ave
+36.0683 -94.1368 124 W Louise St
+36.0683 -94.113 47 N Quick Fox Ave
+36.0685 -94.1943 34 Meadow View Dr
+36.0687 -94.1691 98 Crowne Dr
+36.0688 -94.0982 87 Twin Maple Dr
+36.0689 -94.1591 108 Linda Ln
+36.069 -94.1264 45 Thompson Ave
+36.0691 -94.187 76 Field Rd
+36.0691 -94.1546 69 E Poplar St
+36.0692 -94.1923 87 W Lilac Dr
+36.0693 -94.1962 36 W Treadwell St
+36.0694 -94.1834 122 E Spring St
+36.0695 -94.193 34 E Stearns St
+36.0696 -94.1665 88 N Copernicus Pl
+36.0698 -94.1554 9 Dotson Lewis Rd
+36.0698 -94.1075 46 S Slopeside Dr
+36.07 -94.1905 98 W El Paso Dr
+36.07 -94.145 47 W Sweetgum Ln
+36.0701 -94.1587 21 Cain Dr
+36.0701 -94.1448 97 S Askew Dr
+36.0702 -94.1549 25 W Abilene Dr
+36.0702 -94.1373 90 N Canvas Rd
+36.0703 -94.1746 59 W Olympic Pl
+36.0703 -94.1183 25 Gunter St
+36.0704 -94.1593 99 Clover Dr
+36.0705 -94.1665 97 N Copernicus Pl
+36.0707 -94.197 97 N Sabine Pass Rd
+36.0707 -94.1272 133 Jamestown Rd
+36.0709 -94.189 51 W Honey Ln
+36.071 -94.1476 63 Greenleaf Dr
+36.071 -94.1342 16 W Stepney Ct
+36.0711 -94.1803 20 E Dewberry Ct
+36.0711 -94.1289 48 S Sports Fan Dr
+36.0713 -94.1218 121 N Pine Cone
+36.0714 -94.1877 114 E Citrine Link
+36.0715 -94.1426 101 Hughmount Rd
+36.0717 -94.1732 39 W Kessler Mountain Rd
+36.0717 -94.1349 114 N Zion Valley Dr
+36.0719 -94.1424 38 N Cooper Ave
+36.072 -94.1033 107 E Antlers Ct
+36.0722 -94.1034 116 N Butternut Dr
+36.0723 -94.0937 135 Washington Ave
+36.0725 -94.1559 17 E Joyce Blvd
+36.0725 -94.0968 79 Crane Ct
+36.0726 -94.1529 75 N Trinity Dr
+36.0726 -94.1301 86 Round Mtn Commnty Rd
+36.0727 -94.1196 64 Club Oak Dr
+36.0729 -94.1398 31 Elkhorn Springs Rd
+36.073 -94.1682 40 W Megan Dr
+36.073 -94.1474 89 E Adobe St
+36.0731 -94.1633 58 La Salle Dr
+36.0733 -94.1101 16 E Ranch Dr
+36.0735 -94.1125 105 Bridge Point
+36.0737 -94.1708 79 W Athletic Dr
+36.0738 -94.1698 66 W Hatfield St
+36.0739 -94.15 29 Creekstone Dr
+36.074 -94.1644 18 E Ethel St
+36.0741 -94.1301 94 Round Mtn Commnty Rd
+36.0743 -94.1699 21 W Puppy Creek Dr
+36.0743 -94.1101 25 E Ranch Dr
+36.0745 -94.1159 109 W Weir Rd
+36.0747 -94.1078 95 W Cornell St
+36.0749 -94.1698 89 W Hatfield St
+36.075 -94.1622 84 W Moan Pl
+36.0751 -94.1654 100 S Tower Cir
+36.0751 -94.1503 146 W Hops Dr
+36.0752 -94.1718 172 Kittery Ln
+36.0753 -94.1512 108 N St Charles Ave
+36.0754 -94.1554 58 Dotson Lewis Rd
+36.0754 -94.0863 152 Barrington Dr
+36.0755 -94.1039 101 N Rosewood Dr
+36.0757 -94.1645 26 Lester St
+36.0757 -94.118 110 Sandstone Pl
+36.0758 -94.1976 102 Water Way Dr
+36.0759 -94.1325 31 Downs Ave
+36.0759 -94.1138 97 Carolyn Dr
+36.076 -94.1443 78 W Owl Creek Pl
+36.0762 -94.1749 71 E Appalachian Way
+36.0763 -94.1229 27 Granada St
+36.0765 -94.1803 52 N Viewpoint Dr
+36.0766 -94.1408 25 Brandon Cir
+36.0768 -94.1659 49 Pagosa Pl
+36.0768 -94.1133 57 Dunaway Rd
+36.0769 -94.1368 117 S Silverado Dr
+36.077 -94.1106 38 Lorena Ln
+36.0771 -94.1446 51 E Onyx Trail
+36.0771 -94.1244 93 N Oakland Ave
+36.0772 -94.1317 52 N Lynns Pl
+36.0773 -94.1449 54 Foxglove Dr
+36.0774 -94.1227 63 Stratford Dr
+36.0775 -94.1618 162 E Park Lake Dr
+36.0775 -94.116 175 N Eastborough Ct
+36.0777 -94.1313 14 Company St
+36.0779 -94.1803 98 N Gunnison Dr
+36.078 -94.1842 91 W Dorothy Jeanne St
+36.0781 -94.151 69 Pettigrew St
+36.0782 -94.1795 52 N Cambray Dr
+36.0783 -94.1723 99 Shoreline Way
+36.0783 -94.1114 149 N Chesney Dr
+36.0785 -94.1976 37 Ne Jeter Rd
+36.0785 -94.1614 109 E Kantz Cove
+36.0786 -94.1777 70 N Azalea Terrace
+36.0786 -94.1217 119 N Club Dr
+36.0787 -94.1599 102 S Woodsprings Dr
+36.0788 -94.1532 54 S Overlook Dr
+36.0789 -94.1366 66 Pug Gayer Rd
+36.079 -94.1749 95 E Appalachian Way
+36.0791 -94.1724 108 W Caraway St
+36.0792 -94.1851 26 Nettleship St
+36.0794 -94.1597 50 N Salem Rd
+36.0795 -94.1803 76 N Viewpoint Dr
+36.0796 -94.1045 44 N Shady Ln
+36.0797 -94.1767 74 N Valencia Ave
+36.0797 -94.1211 33 S Highbush Ave
+36.0798 -94.1781 103 Hearthstone Dr
+36.0799 -94.159 105 W James St
+36.08 -94.1979 123 N Downing Ct
+36.08 -94.1004 114 W Preservation Dr
+36.0802 -94.1481 123 S Monarch Ave
+36.0804 -94.1386 80 N Cadillac Dr
+36.0804 -94.1063 130 Storage Dr
+36.0805 -94.1174 82 N Washington Ave
+36.0806 -94.1253 112 E Sycamore St
+36.0807 -94.101 39 E Lakeridge Dr
+36.0808 -94.1479 72 Keith Pl
+36.0809 -94.1808 35 Hunt Ln
+36.0809 -94.1134 14 Kantz Cove
+36.0811 -94.1813 6 W Lori Dr
+36.0811 -94.1277 52 E Shane Cir
+36.0813 -94.1931 113 E Country Ridge
+36.0815 -94.1749 112 E Appalachian Way
+36.0817 -94.1174 102 N Washington Ave
+36.0818 -94.1358 18 E Redbud Ln
+36.0819 -94.1803 143 N Gunnison Dr
+36.0819 -94.1548 154 Frisco St
+36.0821 -94.1142 33 S Seven Hills Ct
+36.0822 -94.147 62 Conner St
+36.0822 -94.1064 89 E Boardwalk Ct
+36.0823 -94.1628 101 N University Ave
+36.0825 -94.1976 75 Ne Jeter Rd
+36.0825 -94.1272 10 N Forest Heights
+36.0826 -94.1423 50 Bluegrass Pl
+36.0827 -94.1879 19 E Meandering Way
+36.0827 -94.1031 104 N Jimmie Ave
+36.0829 -94.147 73 W Persimmon St
+36.083 -94.1852 121 Mushroom Rd
+36.083 -94.1176 61 Brenda Dr
+36.0831 -94.1587 54 E Camrose Ln
+36.0832 -94.0993 79 W Meadow St
+36.0833 -94.1019 62 S Sinclair Ave
+36.0835 -94.1761 68 Mccord Rd
+36.0836 -94.1116 42 W Mahogany Dr
+36.0837 -94.1562 134 Robinson Rd
+36.0839 -94.147 81 W Persimmon St
+36.0841 -94.1233 42 Hames Rd
+36.0842 -94.1134 107 N Greenvalley Ave
+36.0843 -94.1912 118 Navajo Ct
+36.0844 -94.134 16 Sonoma Cir
+36.0846 -94.1804 62 Ed Moore Ln
+36.0846 -94.1244 68 E Debra Dr
+36.0847 -94.1567 18 Oakland Zion Pl
+36.0847 -94.106 17 W Blackstone Crossing
+36.0848 -94.1727 28 S Bayberry Ave
+36.085 -94.1398 93 S City Lake Rd
+36.0852 -94.1818 20 N Brodie Station
+36.0853 -94.1786 53 Glenn Wing Ln
+36.0853 -94.1089 140 E Davis Ln
+36.0854 -94.1093 52 Live Oak Dr
+36.0855 -94.1305 152 Cantering Way
+36.0856 -94.1809 9 S River Meadows Dr
+36.0857 -94.1819 26 Running Springs Dr
+36.0858 -94.1928 99 W Ponca St
+36.0858 -94.132 61 N Tahoe Pl
+36.0859 -94.1787 156 E Ferguson Ave
+36.086 -94.1323 44 S Main Ave
+36.0861 -94.1597 124 N Salem Rd
+36.0862 -94.1127 107 S College Dr
+36.0864 -94.1826 8 W Stone St
+36.0865 -94.1372 94 N Ashwood Ave
+36.0865 -94.1056 142 E Gulley Rd
+36.0867 -94.1544 20 Sawgrass Dr
+36.0867 -94.1054 52 N Shiloh Dr
+36.0868 -94.1711 135 N Thoreau Ln
+36.0869 -94.1273 122 Sam St
+36.0871 -94.1885 22 E Huntsville Rd
+36.0872 -94.1093 66 Live Oak Dr
+36.0873 -94.125 117 W Trenton Blvd
+36.0874 -94.1258 57 E Cinnamon Way
+36.0875 -94.1045 41 E Prospect St
+36.0877 -94.1531 56 N Sierra Ave
+36.0878 -94.1075 48 Black Oak Rd
+36.088 -94.1619 51 Zion Dr
+36.0881 -94.1462 66 N Big Oaks Dr
+36.0882 -94.1597 55 Nickel Church Rd
+36.0883 -94.1207 51 W Patrick St
+36.0884 -94.1894 109 N Cedar Hill Dr
+36.0884 -94.1247 28 Jack Perkins
+36.0884 -94.1152 166 Jack Perkins
+36.0886 -94.1301 46 Fire Tower Rd
+36.0887 -94.1482 95 E Copper Oaks Pl
+36.0887 -94.0877 198 N Malinda Dr
+36.0889 -94.1012 48 N Willow Ave
+36.089 -94.1289 35 N Aspen Dr
+36.0891 -94.0983 44 Taliesin Ln
+36.0893 -94.1837 62 Mountain Spring Dr
+36.0893 -94.15 180 Prestwick N Cir
+36.0895 -94.1973 75 Pin Oak St
+36.0896 -94.1726 82 E Lakefront Dr
+36.0898 -94.1813 42 N Ocean Heights
+36.0899 -94.1615 108 Cedar Hill
+36.0901 -94.1809 38 S River Meadows Dr
+36.0901 -94.093 142 E Spring Brook Ct
+36.0903 -94.1903 71 Cedar Terrace
+36.0903 -94.1752 49 N Susan Carol Ave
+36.0903 -94.1038 82 E Glenn Ln
+36.0905 -94.1964 85 W Wildflower St
+36.0905 -94.1138 70 Chesapeake Way
+36.0907 -94.1975 25 W Woodridge
+36.0907 -94.1472 108 N Betty Jo Dr
+36.0908 -94.1273 141 Sam St
+36.0909 -94.1781 116 N Purva Pl
+36.091 -94.1904 32 Billy Jo Dr
+36.0911 -94.1446 17 Vance Paschal Rd
+36.0913 -94.1919 62 S Country Club Dr
+36.0913 -94.159 78 Waterstone Dr
+36.0913 -94.1374 129 N Timeless Dr
+36.0914 -94.1304 45 Truckers Dr
+36.0916 -94.1712 28 Sw Campbell Rd
+36.0916 -94.1114 115 Peapl Point
+36.0918 -94.1448 36 W Jeter Rd
+36.092 -94.1389 115 Creek View
+36.0921 -94.15 69 Ash Cir
+36.0921 -94.1014 69 E Elmwood Dr
+36.0923 -94.182 64 Cline Ave
+36.0923 -94.1328 40 Chimon Way
+36.0923 -94.1225 161 Chimon Way
+36.0924 -94.194 80 N Skyline Dr
+36.0925 -94.1325 103 Hogeye Fire Station Rd
+36.0926 -94.1044 49 N Tanglewood Ave
+36.0927 -94.1389 122 Creek View
+36.0928 -94.135 75 E Black Canyon St
+36.0928 -94.1087 62 Lillie Ln
+36.0929 -94.098 73 E Missouri Way
+36.0931 -94.1819 112 Running Springs Dr
+36.0932 -94.1818 98 N Brodie Station
+36.0933 -94.1605 37 Lightship Way
+36.0934 -94.156 26 W Sandingham St
+36.0935 -94.1323 110 S Main Ave
+36.0936 -94.1223 51 Tarrmel Rd
+36.0937 -94.1389 132 Creek View
+36.0938 -94.1719 111 N Fowler Ave
+36.0938 -94.1368 68 W New Bridge Rd
+36.094 -94.1786 74 W Watson St
+36.094 -94.1053 27 N Florene St
+36.0941 -94.143 55 E Signal Hill Depot
+36.0941 -94.1379 128 N Mill Ave
+36.0941 -94.1141 60 Lovers Ln
+36.0942 -94.1235 36 Stirman Ave
+36.0944 -94.1447 52 W Yellow Brick Rd
+36.0944 -94.1012 55 W Roadrunner Ln
+36.0945 -94.114 72 White Oak Ln
+36.0947 -94.1358 35 S Brooks Ave
+36.0948 -94.1111 20 S Eastview Dr
+36.095 -94.1872 75 Woodlawn Dr
+36.0951 -94.1465 18 N Lancaster Ln
+36.0952 -94.183 45 Cummings Landfill Rd
+36.0952 -94.1104 114 N Makeig Ct
+36.0954 -94.19 43 N Greenbriar Dr
+36.0954 -94.1674 75 Quail Run
+36.0954 -94.103 53 S Roberts Rd
+36.0956 -94.1354 111 S Maxwell Dr
+36.0957 -94.1235 39 Stirman Ave
+36.0958 -94.1128 56 W Garrett Dr
+36.0961 -94.1964 121 W Wildflower St
+36.0962 -94.1405 55 Sew And Chip Rd
+36.0963 -94.1473 173 Deer Rd
+36.0963 -94.0966 114 Cato Springs Rd
+36.0965 -94.1933 41 W Pierre Crossing
+36.0966 -94.1325 126 Hogeye Fire Station Rd
+36.0968 -94.1787 166 E Crestline Pl
+36.0969 -94.1451 38 N Karyn Ave
+36.097 -94.1383 44 Summit Ave
+36.0971 -94.1349 111 W Pagosa Pl
+36.0972 -94.1304 93 Truckers Dr
+36.0973 -94.1599 63 N Bridgeport Dr
+36.0973 -94.1029 92 W Willoughby Rd
+36.0975 -94.1577 49 W Essex Dr
+36.0976 -94.1731 39 N Eva Ave
+36.0977 -94.1068 21 N Iron Horse Dr
+36.0979 -94.1995 30 Leela Ln
+36.098 -94.1679 116 W Whiteside St
+36.0982 -94.1819 182 Running Springs Dr
+36.0982 -94.1388 86 Mesa St
+36.0984 -94.1782 99 E Piper Glen
+36.0984 -94.1414 159 Lonnie Ave
+36.0986 -94.1877 83 Timberidge Ct
+36.0986 -94.1461 61 Duncan Rd
+36.0987 -94.1794 51 Breckenridge Dr
+36.0987 -94.1178 96 Strawberry Plant Rd
+36.0988 -94.1714 60 N Boxwood Dr
+36.0988 -94.1256 122 E Early Fall St
+36.0989 -94.1194 48 Cliffside Dr
+36.0991 -94.1728 69 Arizona Dr
+36.0992 -94.1847 73 N Jackson Dr
+36.0992 -94.1219 67 Neptune St
+36.0993 -94.1759 70 W Kynleigh Pl
+36.0994 -94.184 33 Baxter Ln
+36.0994 -94.1436 168 Pummill Rd
+36.0995 -94.1037 52 S Jasmine Ln
+36.0997 -94.1731 55 Mt Comfort Rd
+36.0997 -94.1267 109 E Londonderry Dr
+36.0998 -94.1173 59 E Meadow St
+36.0998 -94.0999 57 Waverly Rd
+36.1 -94.1905 79 Concord Ln
+36.1001 -94.1567 84 N Amethyst Ct
+36.1002 -94.153 22 N Genoa Ave
+36.1003 -94.1567 50 N Macey Dr
+36.1003 -94.1139 56 S Colonial Dr
+36.1004 -94.1298 62 E Arapaho Dr
+36.1005 -94.1111 93 S Eastview Dr
+36.1006 -94.0991 123 Dover St
+36.1008 -94.185 31 Shadow Ln
+36.1009 -94.1475 43 Strawberry Dr
+36.1009 -94.1175 140 N Rayview Dr
+36.1011 -94.171 75 E Malinda Dr
+36.1011 -94.1421 109 Mule Deer Cir
+36.1012 -94.138 79 Thunder Rd
+36.1013 -94.1656 107 S Tottenham Ct
+36.1014 -94.1762 77 N Columbia Dr
+36.1014 -94.1283 26 W Greens Chapel Rd
+36.1015 -94.1874 48 Peridot Pl
+36.1016 -94.1602 36 N Timberridge Ct
+36.1016 -94.1321 63 W Tackett Dr
+36.1016 -94.124 97 N Oklahoma Way
+36.1017 -94.1518 26 W Luttrell Ln
+36.1018 -94.1744 58 Oaklawn Ave
+36.1018 -94.1446 105 Vance Paschal Rd
+36.1019 -94.1874 50 Peridot Pl
+36.1019 -94.1402 95 S Shaeffer Rd
+36.102 -94.1731 78 Mt Comfort Rd
+36.1022 -94.1979 132 Albany Ln
+36.1022 -94.1543 167 Pine Valley Dr
+36.1023 -94.1517 42 W Poplar St
+36.1024 -94.1779 47 W Melmar Dr
+36.1025 -94.1616 36 N Vantage Dr
+36.1026 -94.192 90 Paschal Rd
+36.1027 -94.1509 102 N Oakland Zion Rd
+36.1028 -94.1537 70 Foster Ln
+36.1029 -94.1229 31 N Crest Dr
+36.103 -94.1452 110 Doege Rd
+36.1031 -94.1177 80 N Mock Ave
+36.1032 -94.153 65 N Genoa Ave
+36.1033 -94.119 64 N Vandeventer Ave
+36.1034 -94.1472 77 S Forest Glen Way
+36.1036 -94.1728 121 Arizona Dr
+36.1036 -94.1062 35 E Longview St
+36.1037 -94.1156 152 N Starnes Rd
+36.1039 -94.1415 92 Clermont Cir
+36.104 -94.1755 82 Vassar St
+36.1041 -94.163 137 N Quality Ln
+36.1041 -94.1245 136 Horan Rd
+36.1042 -94.1738 28 S Leo Ammons Rd
+36.1042 -94.1175 177 N Rayview Dr
+36.1043 -94.1946 114 Steele Blvd
+36.1043 -94.1383 117 Summit Ave
+36.1044 -94.1002 118 Harmon Ave
+36.1046 -94.1807 66 Oleander Ln
+36.1046 -94.1661 80 N Purple Phlox Ln
+36.1047 -94.185 75 Shadow Ln
+36.1047 -94.1711 122 E Colt Dr
+36.1047 -94.1465 112 N Lancaster Ln
+36.1049 -94.1978 83 N Shamblin Ave
+36.105 -94.1482 110 Stonehenge Dr
+36.1051 -94.1153 24 E Buick Dr
+36.1052 -94.1042 28 S Julian Ave
+36.1053 -94.1465 131 N Lancaster Ln
+36.1053 -94.1275 131 Rupple Rd
+36.1054 -94.1003 81 N Wayne Dr
+36.1056 -94.1293 98 N Brookhollow Ct
+36.1057 -94.146 74 N Pine Crest Ave
+36.1058 -94.1641 147 S Coleman Ave
+36.1058 -94.1035 108 Court St
+36.1059 -94.1589 140 W Redding Way
+36.1059 -94.0982 35 N Shiley Dr
+36.106 -94.1557 45 N Maple Grove Dr
+36.1061 -94.1988 84 Primrose Ln
+36.1061 -94.1508 131 W Sunbridge Dr
+36.1062 -94.1724 54 N Briarwood Ln
+36.1062 -94.1046 101 Boxwood Dr
+36.1063 -94.1268 90 W Providence Dr
+36.1064 -94.1131 43 W Bungalow St
+36.1064 -94.1015 83 Baker Rd
+36.1065 -94.0929 94 W Scottswood Pl
+36.1066 -94.1416 172 Dockery Ln
+36.1068 -94.1536 48 N Harmon Ave
+36.1069 -94.1282 45 N Kittery Ln
+36.107 -94.1215 15 N Greens Ln
+36.1071 -94.159 47 N Quail Creek Dr
+36.1071 -94.1275 138 Rupple Rd
+36.1073 -94.1933 165 W Pierre Crossing
+36.1074 -94.1663 75 W Cato Springs Rd
+36.1075 -94.1206 29 Carlsbad Trce
+36.1076 -94.142 35 N Rupple Rd
+36.1076 -94.1021 16 N Chassy Ave
+36.1078 -94.1893 61 N Althea Dr
+36.1078 -94.1211 126 N Golden Eagle Dr
+36.1079 -94.1293 126 N Brookhollow Ct
+36.1081 -94.1904 57 Barton Ave
+36.1082 -94.1798 124 N Batsford Dr
+36.1083 -94.1282 30 N Acadiana Ct
+36.1085 -94.1988 108 Primrose Ln
+36.1085 -94.1421 83 Point Cir
+36.1086 -94.1178 188 Strawberry Plant Rd
+36.1087 -94.1042 79 S Julian Ave
+36.1089 -94.133 26 Sw Miami Loop
+36.109 -94.1737 53 E Oakmont Dr
+36.109 -94.1477 69 N Hughmount Rd
+36.1091 -94.1044 67 Yearling Rd
+36.1092 -94.1295 101 Eastern Ave
+36.1093 -94.1006 53 N Majestic Dr
+36.1095 -94.1767 117 E Rock St
+36.1096 -94.1732 64 E Golden Oaks Dr
+36.1098 -94.1742 101 Sumter Dr
+36.1098 -94.135 195 Stepney Ct
+36.1099 -94.1685 22 Zion Pl
+36.1099 -94.1487 32 W Stonehenge Dr
+36.1099 -94.1357 115 Juniper St
+36.11 -94.1922 109 N Montana Ave
+36.11 -94.1082 62 N Samara Cir
+36.1102 -94.1742 111 Sumter Dr
+36.1102 -94.1013 161 Garland Ave
+36.1104 -94.142 48 N Double Springs Rd
+36.1104 -94.1186 118 S Coopers Cove
+36.1106 -94.1919 81 E Langston Pl
+36.1106 -94.1213 63 N Chestnut Ave
+36.1108 -94.1815 80 S Pumpkin Ridge Dr
+36.1108 -94.1043 76 Caney Dr
+36.1109 -94.177 117 Mountain Crest Dr
+36.111 -94.1407 92 N Park Oaks Dr
+36.1111 -94.1515 62 Flint Creek Dr
+36.1111 -94.1195 47 N Abington Ct
+36.1113 -94.164 78 Willowbrook Dr
+36.1114 -94.1043 86 Caney Dr
+36.1115 -94.1407 95 N Park Oaks Dr
+36.1116 -94.1263 57 W Alton Dr
+36.1117 -94.1235 121 Ridgewood Ln
+36.1118 -94.1229 121 N Crest Dr
+36.112 -94.1874 40 E Jeffrey Ln
+36.112 -94.1658 59 Hummingbird Rd
+36.1121 -94.1826 116 Lawson St
+36.1123 -94.1659 28 N Bentwood Ln
+36.1124 -94.1082 82 N Samara Cir
+36.1126 -94.1204 30 S Scott Ave
+36.1128 -94.1815 85 S Pumpkin Ridge Dr
+36.1129 -94.1013 101 N Misty Ln
+36.113 -94.1713 23 Hollywood Ave
+36.1131 -94.1263 67 W Alton Dr
+36.1132 -94.1586 118 Ne Campbell Rd
+36.1133 -94.1521 87 Spicewood Pl
+36.1133 -94.1229 130 N Crest Dr
+36.1135 -94.142 76 N Double Springs Rd
+36.1136 -94.1393 105 Trent Ave
+36.1137 -94.134 56 W Bailey Dr
+36.1137 -94.1069 67 Lapis Ln
+36.1138 -94.1213 101 N Chestnut Ave
+36.114 -94.1364 126 Buckley Dr
+36.1141 -94.101 60 Biloxi Crossing
+36.1142 -94.1059 42 E Neely Pl
+36.1143 -94.1263 75 W Alton Dr
+36.1144 -94.1351 102 N Brophy Cir
+36.1145 -94.1306 42 E Spanish Bay Pl
+36.1147 -94.1468 68 N Tourmaline Way
+36.1148 -94.1679 53 W Swallow Cir
+36.1148 -94.0989 49 S Kestrel Dr
+36.1148 -94.0882 141 S Kestrel Dr
+36.115 -94.1273 46 W Berry St
+36.115 -94.0899 214 Candleglow Rd
+36.1151 -94.1474 174 N Southridge Dr
+36.1152 -94.1632 99 N Hillcrest Ave
+36.1153 -94.1477 141 N Hughmount Rd
+36.1154 -94.1055 91 W Eagle St
+36.1156 -94.1991 43 Wesley Rd
+36.1156 -94.1774 15 N Picadilly Ln
+36.1157 -94.1644 63 E Woodcliff Rd
+36.1158 -94.1195 96 N Abington Ct
+36.1159 -94.0995 112 Wheeler Heights Rd
+36.116 -94.1448 34 Shreve Ln
+36.1161 -94.1814 118 Gentle Oaks Ln
+36.1162 -94.1961 55 N Norwich Ln
+36.1163 -94.1947 56 N Rockcliff Rd
+36.1163 -94.1354 44 Huckleberry Cir
+36.1163 -94.1014 50 E Raleigh Cir
+36.1164 -94.1059 83 E Neely Pl
+36.1165 -94.1231 28 S Combs Ave
+36.1166 -94.1651 119 N Starr Dr
+36.1167 -94.1834 106 W Oakfield St
+36.1168 -94.1308 2 Oak Chase Dr
+36.117 -94.1456 76 Thomas Ave
+36.117 -94.1004 51 W Offutt Dr
+36.1171 -94.1192 54 E Shepherd Ln
+36.1172 -94.1189 42 S Vendor Dr
+36.1173 -94.1098 62 Granite Ave
+36.1175 -94.1074 97 Dunn Ave
+36.1178 -94.1998 100 N Wesley Rd
+36.1179 -94.1166 93 S Blair Ave
+36.118 -94.1273 78 W Berry St
+36.1181 -94.1407 121 N Creekwood Ave
+36.1181 -94.1189 162 W La Salle Dr
+36.1182 -94.1614 136 Alta St
+36.1183 -94.1711 91 Greens Ln
+36.1184 -94.103 32 N Middleton Way
+36.1185 -94.1906 24 N Peg Ln
+36.1185 -94.1529 36 Yale St
+36.1185 -94.1225 91 E Furman St
+36.1185 -94.11 122 Harmon South Rd
+36.1187 -94.1503 64 N Keystone Crossing
+36.1188 -94.1273 95 W Berry St
+36.1189 -94.1838 73 E Jonquil Rd
+36.119 -94.1529 99 S Craftsman St
+36.1191 -94.1709 151 Askew Dr
+36.1192 -94.1807 111 W Park Ridge Dr
+36.1193 -94.1189 54 S Vendor Dr
+36.1195 -94.161 58 Se Miami Loop
+36.1195 -94.1351 129 N Worthington Way
+36.1195 -94.1193 117 W Reap Dr
+36.1196 -94.1359 164 Arrowhead St
+36.1197 -94.151 154 E Wyman Rd
+36.1197 -94.1158 58 E Champion Dr
+36.1198 -94.1333 15 E Embry Dr
+36.1199 -94.1729 70 E Oaks Manor Dr
+36.1199 -94.1578 138 Hemingway Pl
+36.12 -94.1153 185 E Buick Dr
+36.1202 -94.1711 102 Greens Ln
+36.1203 -94.1057 123 Black Oak Quarry Rd
+36.1205 -94.103 105 Erika Ave
+36.1207 -94.1397 66 Mhoon Rd
+36.1208 -94.1864 21 N Hosta Dr
+36.1208 -94.1344 53 N Crider Ave
+36.1209 -94.1362 71 St Charles Ave
+36.1211 -94.1449 26 Heather Lynn Ln
+36.1212 -94.1655 60 E Kantz Dr
+36.1212 -94.1014 92 W Steppingstone Dr
+36.1213 -94.1265 126 E Susan Dr
+36.1216 -94.1854 1 N Chrysler Dr
+36.1217 -94.1071 64 Riches Rd
+36.1219 -94.1382 80 E Wimbledon Pl
+36.1221 -94.1426 122 N Whippoorwill Ct
+36.1222 -94.1451 12 Citizens Dr
+36.1223 -94.1733 5 Johnell Dr
+36.1223 -94.1503 100 N Keystone Crossing
+36.1224 -94.1554 63 N Labordite Dr
+36.1225 -94.1162 55 N Assembly Rd
+36.1226 -94.1357 26 N Sheridan Ave
+36.1226 -94.1166 151 W Junction St
+36.1228 -94.199 147 Coach Rd
+36.1229 -94.1787 56 N Sara Ln
+36.123 -94.1449 65 Blackberry Dr
+36.1231 -94.1151 36 Crescent Dr
+36.1233 -94.1536 70 S Happy Hollow Rd
+36.1234 -94.1384 76 E Sterling Ct
+36.1235 -94.169 160 Chestnut Farms Rd
+36.1235 -94.1032 38 N Pyrite Dr
+36.1237 -94.1405 33 N Broyles Ave
+36.1238 -94.1515 66 Radisson Dr
+36.124 -94.1803 41 Stone Creek Heights
+36.1241 -94.1523 56 Young Ave
+36.1242 -94.1816 76 W Eiffel Crossing
+36.1242 -94.1225 16 S Dinsmore Ln
+36.1244 -94.1679 87 N Gregg Ave
+36.1246 -94.1944 106 Slaty Gap Rd
+36.1248 -94.1679 88 N Gregg Ave
+36.1248 -94.103 148 Erika Ave
+36.125 -94.199 168 Coach Rd
+36.1251 -94.1118 108 N Susan Carol Ln
+36.1252 -94.1493 133 Montgomery St
+36.1253 -94.1141 24 Wilton Ct
+36.1254 -94.1401 136 N Tull Ave
+36.1255 -94.1045 55 S Gregg Ave
+36.1256 -94.1607 86 W Crockett Pl
+36.1257 -94.1858 72 S Mashburn Ave
+36.1257 -94.1172 69 Greystone Dr
+36.1258 -94.1768 159 Christman Rd
+36.1259 -94.1049 25 S Sherman Ave
+36.126 -94.1594 57 W Peachtree Dr
+36.126 -94.1266 51 N Autumn Ct
+36.1261 -94.1677 90 S Harding Pl
+36.1262 -94.1201 57 Hahndo Rd
+36.1262 -94.092 161 Johnson St
+36.1264 -94.1643 166 Mockernut Crossing
+36.1266 -94.1816 57 Milo Way
+36.1267 -94.1122 60 Chatworth Rd
+36.1269 -94.1464 35 W Lakewood Dr
+36.1269 -94.108 42 N Janice Ave
+36.1271 -94.1451 54 Citizens Dr
+36.1272 -94.1424 70 Wood Duck Dr
+36.1274 -94.1911 78 W Holly St
+36.1275 -94.174 42 E Yvonne Dr
+36.1275 -94.1468 73 Truax Rd
+36.1276 -94.185 93 N Austin Dr
+36.1276 -94.1124 68 N Seneca Ave
+36.1277 -94.1176 148 N Hemlock Ave
+36.1278 -94.1774 38 Hamestring Rd
+36.1279 -94.1816 88 E Hammond St
+36.1281 -94.1776 89 W Netherland Way
+36.1281 -94.1024 43 Palomino Cir
+36.1282 -94.1819 55 Hotz Dr
+36.1283 -94.1991 26 E Errol St
+36.1284 -94.1242 35 Laverne Ave
+36.1286 -94.1721 39 W Bishop Dr
+36.1287 -94.1784 83 W Auburn Dr
+36.1287 -94.1225 65 S Dinsmore Ln
+36.1288 -94.1421 46 Copper Ridge Ln
+36.1289 -94.1764 72 N Kensington Ct
+36.1291 -94.1875 114 Silverthorne Rd
+36.1292 -94.1928 48 Smokey Ln
+36.1292 -94.1105 61 W Oaks Dr
+36.1294 -94.1357 40 E Parkshore Dr
+36.1295 -94.1181 64 N Doyne Hamm Dr
+36.1296 -94.1736 47 Cottonwood Ave
+36.1296 -94.1072 52 W Spring St
+36.1297 -94.1206 34 Tanzanite Trail
+36.1299 -94.1614 57 W Village Lake Dr
+36.13 -94.1451 78 Citizens Dr
+36.1302 -94.1421 69 Copper Ridge Ln
+36.1304 -94.1677 128 S Harding Pl
+36.1306 -94.137 148 N Sunflower Cir
+36.1308 -94.1498 99 E Caston Dr
+36.131 -94.1374 76 N Rhonda Dr
+36.1312 -94.148 131 E Kantz Ln
+36.1315 -94.1901 60 E Sain St
+36.1317 -94.1985 73 W Starry Night View
+36.1319 -94.1607 133 W Crockett Pl
+36.1321 -94.1911 135 W Holly St
+36.1323 -94.1281 29 N Rockledge Dr
+36.1325 -94.1134 49 Beechnut Ln
+36.1328 -94.1775 114 N Addington Ave
+36.133 -94.101 93 Greenridge Rd
+36.1333 -94.1713 116 Janelle Ave
+36.1335 -94.1242 91 Laverne Ave
+36.1339 -94.1881 90 Dingledine Rd
+36.1341 -94.1318 126 Union Point Rd
+36.1343 -94.1375 106 S Palmer Ave
+36.1346 -94.101 113 Greenridge Rd
+36.1349 -94.1499 117 Cross Ave
+36.1352 -94.1901 96 E Sain St
+36.1355 -94.1728 85 Double Eagle Pl
+36.1358 -94.1803 163 Stone Creek Heights
+36.1361 -94.1163 124 Stirrup Ave
+36.1365 -94.1418 117 E Dodge Dr
+36.137 -94.1985 107 W Starry Night View
+36.1375 -94.1721 149 W Bishop Dr
+36.138 -94.1721 155 W Bishop Dr
+36.1387 -94.1901 128 E Sain St
+36.1393 -94.1375 136 S Palmer Ave
+36.1402 -94.1072 175 W Spring St
+36.1413 -94.1288 133 Cambray Dr
+36.143 -94.1955 150 N High Ave
+36.1474 -94.1955 191 N High Ave
